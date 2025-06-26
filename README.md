@@ -11,16 +11,12 @@ Feel free to reach out and connect!
 <!-- [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me) -->
 
 ### Skills
-**Technical**: Python, R, SQL, MS Office, LaTeX, Git, NumPy, Pandas, Scikit-learn, TensorFlow, Keras
-
-**Modeling**: Supervised Learning, Unsupervised Learning, Deep Learning
-
-**Data analytics**: Data Cleaning, Manipulation, Mining, Visualization
-
-**Transferable**: Research, Team Collaboration, Analytical Thinking, Project Management, Communication
-
-**Languages**: Native Spanish Speaker, Proficient in Chinese
+- **Technical**: Python, R, SQL, MS Office, LaTeX, Git, NumPy, Pandas, Scikit-learn, TensorFlow, Keras
+- **Modeling**: Supervised Learning, Unsupervised Learning, Deep Learning
+- **Data analytics**: Data Cleaning, Manipulation, Mining, Visualization
+- **Transferable**: Research, Team Collaboration, Analytical Thinking, Project Management, Communication
+- **Languages**: Native Spanish Speaker, Proficient in Chinese
 
 ### Interests
-Graphic design, animated media and storytelling, musical theater, postcard collecting, pop culture collectibles.
+- Graphic design, animated media and storytelling, musical theater, postcard collecting, pop culture collectibles.
 
