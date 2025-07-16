@@ -11,9 +11,9 @@ Feel free to reach out and connect!
 <!-- [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me) -->
 
 ### Skills
-- **Technical**: Python, R, SQL, MS Office, LaTeX, Git, NumPy, Pandas, Scikit-learn, TensorFlow, Keras
-- **Modeling**: Supervised Learning, Unsupervised Learning, Deep Learning
-- **Data analytics**: Data Cleaning, Manipulation, Mining, Visualization
+- **Tehnical**: Python, R, SQL, Git, MS Office, Jupyter, NumPy, Pandas, Scikit-learn, TensorFlow, Keras
+- **ML & AI**: Supervised & Unsupervised Learning, Deep Learning, LSTM, NLP, Prompt Engineering
+- **Data analytics**: Data Cleaning, Manipulation, Visualization, Feature Engineering, Model Evaluation
 - **Transferable**: Research, Team Collaboration, Analytical Thinking, Project Management, Communication
 - **Languages**: Native Spanish Speaker, Proficient in Chinese
 
